@@ -1,0 +1,8 @@
+[package]
+name = "mimalloc_rs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ctor = "0.2.9"
+libc = "0.2"
